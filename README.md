@@ -1,4 +1,4 @@
-# CodeAlpha Data Analytics Internship Portfolio
+#  Data Analytics Portfolio
 
 Welcome to my portfolio for the **CodeAlpha Data Analytics Internship**. My name is **Deeksha Rathore**, and during this internship, I have developed three industry-standard data analytics solutions. These projects demonstrate my proficiency in exploratory data analysis (EDA), statistical visualization, predictive plotting frameworks, and Natural Language Processing (NLP) text classification.
 
@@ -61,10 +61,3 @@ An end-to-end Natural Language Processing (NLP) text intelligence engine configu
 
 ---
 
-## 👩‍💻 About the Author
-
-* **Data Analyst:** Aastha Jain
-* **Role:** Data Analytics Intern at CodeAlpha
-* **Core Competency Focus:** Computational Statistics, Data Cleansing Architecture, Exploratory Visualizations, and Business Intelligence Storytelling.
-
-A huge thank you to **CodeAlpha** for providing these highly practical data challenges! Feel free to drop a star ⭐ on this repository if you find the analytical code structures helpful.
